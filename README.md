@@ -7,4 +7,4 @@ Tópicos dos arquivos postados:
 3. Teste JUnit (Dentro da pasta do código fonte);
 4. Projeto .jar;
 5. Resumo expandido padrão FETEC (link para o medium.com);
-6. Diagrama de classe (plantuml.com).
+6. Diagrama de classe ([plantuml.com](https://github.com/PedroPato7/Framework-AtividadeGrafo/tree/main)).
